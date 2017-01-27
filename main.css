@@ -1,0 +1,53 @@
+
+
+p {
+	color: white;
+	background-color: lightblue;
+}
+
+header {
+	background-color: orange;
+	color: gold;
+}
+
+h1 {
+	font-size: 30px;
+	color: red;
+}
+
+h2 {
+	font-size: 35px;
+	color: purple;
+}
+
+h3 {
+	font-size: 40px;
+	color: green;
+}
+
+h4 {
+	font-size: 45px;
+	color: brown;
+}
+
+#primary-content {
+	border: 1px solid black;
+		margin: 25px;
+}
+
+#n-child {
+	border: 1px solid black;
+
+}
+
+#n-type {
+	border: 1px solid black;
+}
+
+#first-of-type {
+	border: 5px solid black;
+}
+
+#three {
+	border: 10px solid black;
+}
